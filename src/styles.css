@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+div.card-header {
+ font-size: large;
+ background-color: #382F2F;
+ color: #EFEEEE;
+ text-align: center;
+ text-shadow: 2px 2px rgb(102, 28, 28);
+}
+
+div.card {
+  margin-top: 10px;
+  background-color: rgb(223, 213, 213);
+  color: rgb(0, 0, 0);
+  
+}
+
+.table {
+  margin-top: 10px
+}
